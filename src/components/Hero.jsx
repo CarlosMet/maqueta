@@ -3,8 +3,8 @@ import React from 'react'
 export default function Hero() {
   return (
     <div className='bg-[#102b3e] text-white flex flex-col items-center [&>*]:max-w-[75%] text-center pt-20 pb-32 relative'>
-      <h1>
-        INNOVARQ
+      <h1 className='font-bold text-4xl tracking-tighter'>
+        INNOVARQ.
       </h1>
       <p className='mt-8'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum, eum dicta vitae animi repellat eveniet alias possimus consectetur libero earum quibusdam porro eos totam laudantium placeat doloribus fugiat sit soluta quos voluptatibus pariatur perspiciatis. Ut maxime vero eaque repellat nam dignissimos, quasi dolorum qui ducimus debitis, voluptatum pariatur quibusdam consequuntur aperiam repellendus. Magnam, quam numquam dolor veniam vitae omnis cumque?</p>
       <button className='bg-[#6663e1] px-8 py-1 rounded-xl mt-8'>
